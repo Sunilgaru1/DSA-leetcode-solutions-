@@ -4,3 +4,4 @@
 - LC 21 Merge Two Sorted Lists
 - LC 158 Sort List
 - LC 24 Swap Nodes in Pairs
+- LC 1721 Swapping Nodes in a Linked List
