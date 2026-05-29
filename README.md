@@ -5,3 +5,7 @@
 - LC 158 Sort List
 - LC 24 Swap Nodes in Pairs
 - LC 1721 Swapping Nodes in a Linked List
+
+
+## Bit Manipulation
+- LC 231 Power Of Two
