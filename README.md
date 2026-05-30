@@ -6,7 +6,7 @@
 - LC 24 Swap Nodes in Pairs
 - LC 1721 Swapping Nodes in a Linked List
 
-#Recursion
+## Recursion
 - LC 50. Pow(x, n)
 - LC 1922. Count Good Numbers
 
