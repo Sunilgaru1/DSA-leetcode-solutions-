@@ -9,6 +9,8 @@
 ## Recursion
 - LC 50. Pow(x, n)
 - LC 1922. Count Good Numbers
+- LC 22. Generate Parentheses
+- LC 39. Combination Sum
 
 ## Bit Manipulation
 - LC 231 Power Of Two
