@@ -11,6 +11,12 @@
 - LC 1922. Count Good Numbers
 - LC 22. Generate Parentheses
 - LC 39. Combination Sum
+- LC 40. Combination Sum II
+- LC 216. Combination Sum III
+- LC 17. Letter Combinations of a Phone Number
+- LC 131. Palindrome Partitioning
+- LC 46. Permutations
+- LC 60. Permutation Sequence
 
 ## Bit Manipulation
 - LC 231 Power Of Two
