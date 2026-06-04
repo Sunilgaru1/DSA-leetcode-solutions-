@@ -22,3 +22,5 @@
 - LC 231 Power Of Two
 - LC 191 Number Of 1 Bits
 - LC 29 Divide Two Integers
+- LC 461 Hamming Distance
+- LC 2220. Minimum Bit Flips to Convert Number
