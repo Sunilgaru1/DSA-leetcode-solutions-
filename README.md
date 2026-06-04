@@ -24,3 +24,13 @@
 - LC 29 Divide Two Integers
 - LC 461 Hamming Distance
 - LC 2220. Minimum Bit Flips to Convert Number
+
+
+## Stack and Queue
+- LC_225 Implement Stack using Queues
+- LC_232 Implement Queue using Stacks
+- LC 20 Valid Parentheses
+- LC 155 Min Stack
+
+## Two Pointers and Sliding Window
+- LC 3 Longest Substring Without Repeating Characters
