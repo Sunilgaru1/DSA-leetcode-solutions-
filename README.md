@@ -35,6 +35,8 @@
 - LC 20 Valid Parentheses
 - LC 155 Min Stack
 - Lc 496. Next Greater Element I
+- LC 503. Next Greater Element II
+- LC 907. Sum of Subarray Minimums
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
