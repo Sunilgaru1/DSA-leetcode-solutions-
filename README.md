@@ -34,6 +34,7 @@
 - LC_232 Implement Queue using Stacks
 - LC 20 Valid Parentheses
 - LC 155 Min Stack
+- Lc 496. Next Greater Element I
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
