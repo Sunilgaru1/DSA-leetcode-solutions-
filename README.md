@@ -37,6 +37,9 @@
 - Lc 496. Next Greater Element I
 - LC 503. Next Greater Element II
 - LC 907. Sum of Subarray Minimums
+- LC 735 Asteroid Collision
+- LC 2104. Sum of Subarray Ranges
+- LC 42. Trapping Rain Water
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
