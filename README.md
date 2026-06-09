@@ -44,6 +44,7 @@
 - LC 42. Trapping Rain Water
 - Lc 402. Remove K Digits
 - LC 1004. Max Consecutive Ones III
+- LC 84. Largest Rectangle in Histogram
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
