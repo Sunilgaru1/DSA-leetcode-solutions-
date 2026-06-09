@@ -27,6 +27,8 @@
 - LC 29 Divide Two Integers
 - LC 461 Hamming Distance
 - LC 2220. Minimum Bit Flips to Convert Number
+  # MATHS
+  - LC 204. Count Primes
 
 
 ## Stack and Queue
@@ -40,6 +42,8 @@
 - LC 735 Asteroid Collision
 - LC 2104. Sum of Subarray Ranges
 - LC 42. Trapping Rain Water
+- Lc 402. Remove K Digits
+- LC 1004. Max Consecutive Ones III
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
