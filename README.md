@@ -27,7 +27,7 @@
 - LC 29 Divide Two Integers
 - LC 461 Hamming Distance
 - LC 2220. Minimum Bit Flips to Convert Number
-  # MATHS
+  ### MATHS
   - LC 204. Count Primes
 
 
