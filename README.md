@@ -47,3 +47,5 @@
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
+- Lc 1838. Frequency of the Most Frequent Element
+
