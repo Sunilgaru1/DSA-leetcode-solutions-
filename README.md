@@ -1,5 +1,7 @@
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
+- LC 738. Monotone Increasing Digits
+
 
 ## Linked List
 - LC 160 Intersection of Two Linked Lists
