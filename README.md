@@ -12,6 +12,7 @@
 - LC 158 Sort List
 - LC 24 Swap Nodes in Pairs
 - LC 1721 Swapping Nodes in a Linked List
+- LC 2095. Delete the Middle Node of a Linked List
 
 ## Recursion
 - LC 50. Pow(x, n)
