@@ -62,3 +62,4 @@
 - LC 144. Binary Tree Preorder Traversal
 - LC 145. Binary Tree Postorder Traversal
 - LC 102. Binary Tree Level Order Traversal
+- LC 104. Maximum Depth of Binary Tree
