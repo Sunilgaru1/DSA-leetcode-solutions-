@@ -64,4 +64,4 @@
 - LC 102. Binary Tree Level Order Traversal
 - LC 104. Maximum Depth of Binary Tree
 - LC 110. Balanced Binary Tree
-
+- LC 543. Diameter of Binary Tree
