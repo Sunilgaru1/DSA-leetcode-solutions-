@@ -65,3 +65,5 @@
 - LC 104. Maximum Depth of Binary Tree
 - LC 110. Balanced Binary Tree
 - LC 543. Diameter of Binary Tree
+- LC 100. Same Tree
+- LC 124. Binary Tree Maximum Path Sum
