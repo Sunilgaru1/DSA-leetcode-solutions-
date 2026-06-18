@@ -67,3 +67,5 @@
 - LC 543. Diameter of Binary Tree
 - LC 100. Same Tree
 - LC 124. Binary Tree Maximum Path Sum
+- LC 103. Binary Tree Zigzag Level Order Traversal
+- LC 987. Vertical Order Traversal of a Binary Tree
