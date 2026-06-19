@@ -3,8 +3,6 @@
 - LC 738. Monotone Increasing Digits
 - LC 2259. Remove Digit From Number to Maximize Result
 
-
-
 ## Linked List
 - LC 160 Intersection of Two Linked Lists
 - LC 2 Add Two Numbers
@@ -35,7 +33,6 @@
   ### MATHS
   - LC 204. Count Primes
 
-
 ## Stack and Queue
 - LC_225 Implement Stack using Queues
 - LC_232 Implement Queue using Stacks
@@ -50,6 +47,7 @@
 - Lc 402. Remove K Digits
 - LC 1004. Max Consecutive Ones III
 - LC 84. Largest Rectangle in Histogram
+
 
 ## Two Pointers and Sliding Window
 - LC 3 Longest Substring Without Repeating Characters
