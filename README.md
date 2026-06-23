@@ -68,3 +68,4 @@
 - LC 103. Binary Tree Zigzag Level Order Traversal
 - LC 987. Vertical Order Traversal of a Binary Tree
 - LC 199. Binary Tree Right Side View
+- LC 101. Symmetric Tree
