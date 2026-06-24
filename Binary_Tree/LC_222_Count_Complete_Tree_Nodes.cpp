@@ -11,14 +11,15 @@
  */
 class Solution {
 public:
-    bool findSym(TreeNode* p,TreeNode* q){
-        if(p==NULL && q==NULL) return true;
-        if(p ==NULL || q == NULL) return false;
-
-        return (p->val == q->val) && findSym(p->left,q->right) && findSym(p->right,q->left);
+    int count = 0;
+    void dfs(TreeNode* root){
+        if(!root) return;
+        count++;
+        dfs(root->left);
+        dfs(root->right);
     }
-    bool isSymmetric(TreeNode* root) {
-
-        return findSym(root->left,root->right);
+    int countNodes(TreeNode* root) {
+        dfs(root);
+        return count;
     }
 };
