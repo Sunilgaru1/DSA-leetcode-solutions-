@@ -70,3 +70,4 @@
 - LC 101. Symmetric Tree
 - LC 236. Lowest Common Ancestor of a Binary Tree
 - LC 662. Maximum Width of Binary Tree
+- LC 222. Count Complete Tree Nodes
