@@ -1,3 +1,6 @@
+## LeetCode Daily
+- LC 3737. Count Subarrays With Majority Element I
+
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
