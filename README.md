@@ -80,3 +80,8 @@
 - LC 671. Second Minimum Node In a Binary Tree
 - LC 230. Kth Smallest Element in a BST
 - LC 105. Construct Binary Tree from Preorder and Inorder Traversal
+- LC 112. Path Sum
+- LC 113. Path Sum II
+- LC 114. Flatten Binary Tree to Linked List
+- LC 235. Lowest Common Ancestor of a Binary Search Tree
+- LC 107. Binary Tree Level Order Traversal II
