@@ -1,7 +1,7 @@
 ## LeetCode Daily
 - LC 3737. Count Subarrays With Majority Element I
 - LC 3739. Count Subarrays With Majority Element II
-  
+- LC 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
