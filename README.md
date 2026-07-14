@@ -3,6 +3,8 @@
 - LC 3739. Count Subarrays With Majority Element II
 - LC 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 - LC 3756. Concatenate Non-Zero Digits and Multiply by Sum II
+- LC 1291. Sequential Digits
+
   
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
