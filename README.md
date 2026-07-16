@@ -5,7 +5,6 @@
 - LC 3756. Concatenate Non-Zero Digits and Multiply by Sum II
 - LC 1291. Sequential Digits
 
-  
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
