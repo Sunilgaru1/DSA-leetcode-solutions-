@@ -4,6 +4,8 @@
 - LC 3754. Concatenate Non-Zero Digits and Multiply by Sum I
 - LC 3756. Concatenate Non-Zero Digits and Multiply by Sum II
 - LC 1291. Sequential Digits
+- LC 3867. Sum of GCD of Formed Pairs
+- LC 3312. Sorted GCD Pair Queries
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
