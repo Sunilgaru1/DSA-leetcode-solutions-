@@ -6,6 +6,10 @@
 - LC 1291. Sequential Digits
 - LC 3867. Sum of GCD of Formed Pairs
 - LC 3312. Sorted GCD Pair Queries
+- LC 1979. Find Greatest Common Divisor of Array
+- LC 1081. Smallest Subsequence of Distinct Characters
+- LC 1260. Shift 2D Grid
+- LC 3499. Maximize Active Section with Trade I
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
