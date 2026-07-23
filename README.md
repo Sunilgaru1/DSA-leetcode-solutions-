@@ -11,6 +11,7 @@
 - LC 1260. Shift 2D Grid
 - LC 3499. Maximize Active Section with Trade I
 
+
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
