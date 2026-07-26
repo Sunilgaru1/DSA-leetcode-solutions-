@@ -11,7 +11,7 @@
 - LC 1260. Shift 2D Grid
 - LC 3499. Maximize Active Section with Trade I
 - LC 3536. Maximum Product of Two Digits
-
+- LC 628. Maximum Product of Three Numbers
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
