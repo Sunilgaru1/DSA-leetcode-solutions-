@@ -13,8 +13,8 @@
 - LC 3536. Maximum Product of Two Digits
 - LC 628. Maximum Product of Three Numbers
 - LC 3517. Smallest Palindromic Rearrangement I
+- LC 3014. Minimum Number of Pushes to Type Word I
 
-- 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
