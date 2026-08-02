@@ -14,6 +14,7 @@
 - LC 628. Maximum Product of Three Numbers
 - LC 3517. Smallest Palindromic Rearrangement I
 - LC 3014. Minimum Number of Pushes to Type Word I
+- LC 877. Stone Game
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
