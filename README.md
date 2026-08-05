@@ -17,6 +17,7 @@
 - LC 877. Stone Game
 - LC 1406. Stone Game III
 
+
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
