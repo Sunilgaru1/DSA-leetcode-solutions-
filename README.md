@@ -16,7 +16,7 @@
 - LC 3014. Minimum Number of Pushes to Type Word I
 - LC 877. Stone Game
 - LC 1406. Stone Game III
-
+- LC 3345. Smallest Divisible Digit Product I
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
