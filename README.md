@@ -109,3 +109,4 @@
 - LC 419. Battleships in a Board
 - LC 200. Number of Islands
 - LC 127. Word Ladder
+- LC 79. Word Search
