@@ -111,3 +111,6 @@
 - LC 127. Word Ladder
 - LC 79. Word Search
 - LC 329. Longest Increasing Path in a Matrix
+
+## DP
+- LC 494. Target Sum
