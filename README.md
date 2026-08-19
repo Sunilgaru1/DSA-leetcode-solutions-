@@ -17,6 +17,8 @@
 - LC 877. Stone Game
 - LC 1406. Stone Game III
 - LC 3345. Smallest Divisible Digit Product I
+- LC 3471. Find the Largest Almost Missing Integer
+- LC 1386. Cinema Seat Allocation
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
