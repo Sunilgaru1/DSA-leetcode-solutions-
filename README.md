@@ -19,6 +19,7 @@
 - LC 3345. Smallest Divisible Digit Product I
 - LC 3471. Find the Largest Almost Missing Integer
 - LC 1386. Cinema Seat Allocation
+- LC 3718. Smallest Missing Multiple of K
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
