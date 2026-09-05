@@ -123,3 +123,5 @@
 - LC 474. Ones and Zeroes
 - LC 279. Perfect Squares
 - LC 377. Combination Sum IV
+- LC 1092. Shortest Common Supersequence
+
