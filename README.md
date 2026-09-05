@@ -21,6 +21,7 @@
 - LC 1386. Cinema Seat Allocation
 - LC 3718. Smallest Missing Multiple of K
 - LC 3903. Smallest Stable Index I
+- LC 3904. Smallest Stable Index II
 
 
 ## Strings
