@@ -125,5 +125,6 @@
 - LC 377. Combination Sum IV
 - LC 1092. Shortest Common Supersequence
 - LC 583. Delete Operation for Two Strings
+- LC 516. Longest Palindromic Subsequence
 
 
