@@ -22,6 +22,8 @@
 - LC 3718. Smallest Missing Multiple of K
 - LC 3903. Smallest Stable Index I
 - LC 3904. Smallest Stable Index II
+- LC 3870. Count Commas in Range
+
 
 
 ## Strings
