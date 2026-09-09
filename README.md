@@ -23,8 +23,7 @@
 - LC 3903. Smallest Stable Index I
 - LC 3904. Smallest Stable Index II
 - LC 3870. Count Commas in Range
-
-
+- LC 3871. Count Commas in Range II
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
