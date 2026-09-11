@@ -27,6 +27,7 @@
 - LC 2265. Count Nodes Equal to Average of Subtree
 
 
+
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
