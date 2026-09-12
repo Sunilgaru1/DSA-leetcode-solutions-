@@ -133,3 +133,5 @@
 - LC 115. Distinct Subsequences
 - LC 712. Minimum ASCII Delete Sum for Two Strings
 - LC 1035. Uncrossed Lines
+- LC 4050. Minimum Days to Score Exactly N Points
+
