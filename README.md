@@ -27,6 +27,8 @@
 - LC 2265. Count Nodes Equal to Average of Subtree
 - LC 835. Image Overlap
 - LC 836. Rectangle Overlap
+- LC 1401. Circle and Rectangle Overlapping
+
 
 
 ## Strings
