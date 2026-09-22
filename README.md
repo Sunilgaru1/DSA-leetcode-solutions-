@@ -35,6 +35,8 @@
 - LC 1614. Maximum Nesting Depth of the Parentheses
 - LC 738. Monotone Increasing Digits
 - LC 2259. Remove Digit From Number to Maximize Result
+- LC 49. Group Anagrams
+
 
 
 ## Linked List
