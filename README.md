@@ -29,6 +29,8 @@
 - LC 836. Rectangle Overlap
 - LC 1401. Circle and Rectangle Overlapping
 - LC 3498. Reverse Degree of a String
+- LC 1658. Minimum Operations to Reduce X to Zero
+
 
 
 ## Strings
