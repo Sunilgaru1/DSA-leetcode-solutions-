@@ -31,7 +31,7 @@
 - LC 3498. Reverse Degree of a String
 - LC 1658. Minimum Operations to Reduce X to Zero
 - LC 3550. Smallest Index With Digit Sum Equal to Index
-
+- LC 1807. Evaluate the Bracket Pairs of a String
 
 
 ## Strings
