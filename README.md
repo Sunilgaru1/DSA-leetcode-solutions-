@@ -33,6 +33,8 @@
 - LC 3550. Smallest Index With Digit Sum Equal to Index
 - LC 1096. Brace Expansion II
 - LC 1807. Evaluate the Bracket Pairs of a String
+- LC 20. Valid Parentheses
+
 
 
 ## Strings
