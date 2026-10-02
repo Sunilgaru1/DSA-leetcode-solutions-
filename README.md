@@ -34,6 +34,7 @@
 - LC 1096. Brace Expansion II
 - LC 1807. Evaluate the Bracket Pairs of a String
 - LC 1190. Reverse Substrings Between Each Pair of Parentheses
+- LC 22. Generate Parentheses
 
 - LC 20. Valid Parentheses
 - LC 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
