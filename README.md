@@ -39,6 +39,9 @@
 - LC 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
 - LC 678. Valid Parenthesis String
 
+## Array
+- LC 2798. Number of Employees Who Met the Target
+
 
 ## Strings
 - LC 1614. Maximum Nesting Depth of the Parentheses
