@@ -38,6 +38,8 @@
 - LC 20. Valid Parentheses
 - LC 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
 - LC 678. Valid Parenthesis String
+- LC 2778. Sum of Squares of Special Elements
+
 
 ## Array
 - LC 2798. Number of Employees Who Met the Target
