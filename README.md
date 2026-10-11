@@ -155,6 +155,8 @@
 - LC 4050. Minimum Days to Score Exactly N Points
   ### JUMP GAME
   - LC 55. Jump Game
+  - LC 45. Jump Game II
+
 
   
 
