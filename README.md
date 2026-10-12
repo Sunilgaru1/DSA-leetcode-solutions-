@@ -41,6 +41,7 @@
 - LC 2778. Sum of Squares of Special Elements
 
 
+
 ## Array
 - LC 2798. Number of Employees Who Met the Target
 
