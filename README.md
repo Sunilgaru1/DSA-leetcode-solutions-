@@ -39,6 +39,7 @@
 - LC 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
 - LC 678. Valid Parenthesis String
 - LC 2778. Sum of Squares of Special Elements
+- LC 3727. Maximum Alternating Sum of Squares
 
 
 
