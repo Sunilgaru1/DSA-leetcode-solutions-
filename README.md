@@ -159,6 +159,7 @@
   - LC 55. Jump Game
   - LC 45. Jump Game II
   - LC 1306. Jump Game III
+  - LC 1340. Jump Game V
 
 
 
