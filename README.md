@@ -41,8 +41,6 @@
 - LC 2778. Sum of Squares of Special Elements
 - LC 3727. Maximum Alternating Sum of Squares
 
-
-
 ## Array
 - LC 2798. Number of Employees Who Met the Target
 
@@ -52,7 +50,6 @@
 - LC 738. Monotone Increasing Digits
 - LC 2259. Remove Digit From Number to Maximize Result
 - LC 49. Group Anagrams
-
 
 
 ## Linked List
@@ -161,8 +158,3 @@
   - LC 1306. Jump Game III
   - LC 1345. Jump Game IV
   - LC 1340. Jump Game V
-
-
-
-  
-
