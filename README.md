@@ -40,6 +40,8 @@
 - LC 678. Valid Parenthesis String
 - LC 2778. Sum of Squares of Special Elements
 - LC 3727. Maximum Alternating Sum of Squares
+- LC 3551. Minimum Swaps to Sort by Digit Sum
+
 
 ## Array
 - LC 2798. Number of Employees Who Met the Target
