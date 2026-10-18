@@ -47,6 +47,7 @@
 - LC 2798. Number of Employees Who Met the Target
   ### SPIRAL MATRIX
   - LC 54. Spiral Matrix
+  - LC 59. Spiral Matrix II
 
 
 ## Strings
