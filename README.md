@@ -48,6 +48,7 @@
   ### SPIRAL MATRIX
   - LC 54. Spiral Matrix
   - LC 59. Spiral Matrix II
+  - LC 2326. Spiral Matrix IV
 
 
 ## Strings
