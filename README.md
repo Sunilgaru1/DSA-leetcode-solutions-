@@ -41,6 +41,7 @@
 - LC 2778. Sum of Squares of Special Elements
 - LC 3727. Maximum Alternating Sum of Squares
 - LC 3551. Minimum Swaps to Sort by Digit Sum
+- LC 3886. Sum of Sortable Integers
 
 
 ## Array
