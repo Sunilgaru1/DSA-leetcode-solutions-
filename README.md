@@ -57,6 +57,8 @@
 - LC 738. Monotone Increasing Digits
 - LC 2259. Remove Digit From Number to Maximize Result
 - LC 49. Group Anagrams
+  ### KMP
+  - LC 1392. Longest Happy Prefix
 
 
 ## Linked List
