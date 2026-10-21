@@ -42,6 +42,8 @@
 - LC 3727. Maximum Alternating Sum of Squares
 - LC 3551. Minimum Swaps to Sort by Digit Sum
 - LC 3886. Sum of Sortable Integers
+- LC 3863. Minimum Operations to Sort a String
+
 
 
 ## Array
