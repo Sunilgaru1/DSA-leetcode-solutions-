@@ -44,6 +44,8 @@
 - LC 3886. Sum of Sortable Integers
   ### Minimum Operations to Sort
   - LC 3863. Minimum Operations to Sort a String
+  - LC 3942. Minimum Operations to Sort a Permutation
+
 
 
 
