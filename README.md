@@ -48,9 +48,6 @@
   - LC 3644. Maximum K to Sort a Permutation
 
 
-
-
-
 ## Array
 - LC 2798. Number of Employees Who Met the Target
   ### SPIRAL MATRIX
