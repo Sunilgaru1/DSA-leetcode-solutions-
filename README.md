@@ -54,6 +54,10 @@
   ### DP
   - LC 3693. Climbing Stairs II
 
+  ### GREEDY
+  - LC 3789. Minimum Cost to Acquire Required Items
+
+
 
 ## Array
 - LC 2798. Number of Employees Who Met the Target
