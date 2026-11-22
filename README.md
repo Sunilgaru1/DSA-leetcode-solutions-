@@ -45,6 +45,7 @@
 - LC 453. Minimum Moves to Equal Array Elements
 - LC 462. Minimum Moves to Equal Array Elements II
 - LC 1385. Find the Distance Value Between Two Arrays
+- LC 2124. Check if All A's Appears Before All B's
 
   ### Minimum Operations to Sort
   - LC 3863. Minimum Operations to Sort a String
